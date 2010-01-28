@@ -1,0 +1,45 @@
+WP-Authorinfo widget
+
+Author: S.AKYUREK
+Author URL: http://www.seyhunakyurek.com
+Tags: about me, widget, biography, bio, author
+Tested up to: 2.8 
+
+-- Description --
+Widget that adds author information box with social bookmarking links to your sidebar
+Simply add your name, info, gravatar settings and social networks, this widget will creates a slick author information (bio) on your sidebar. Fully customizable and themeable.
+
+Currently, the following socialnetworks are supported: 
+ 
+* Delicious 
+* Facebook 
+* Friendfeed 
+* Twitter 
+* Linkedin
+* Xing
+* Youtube
+* Technorati 
+* Stumbleupon
+* Feedburner 
+
+-- Installation --
+
+To install and configure: 
+ 
+1. Download and extract WP-Authorinfo to your plugins folder.
+2. Go to Administration panel > Plugins page and activate it.
+3. Go to Administration panel > Themes > Widget page and add WP-MyBio to your sidebar and configure it.
+4. No more steps, Its ready.
+
+-- Screenshots --
+1. Widget settings interface
+2. UI interface
+
+-- Changelog --
+
+-- 1.0 --
+* Released V.1.0
+ 
+-- For Feedback &  Report Bugs
+Use github. @seyhunak
+http://www.seyhunakyurek.com
