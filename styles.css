@@ -1,0 +1,42 @@
+@charset "utf-8";
+/*
+Plugin Name: WP-MyBio
+Plugin URI: http://www.seyhunakyurek.com/
+Description: Creates simple author information box with social bookmark links.
+Author: S.AKYUREK
+Version: 0.1
+Author URI: http://www.seyhunakyurek.com/
+*/
+
+#mybio {
+	height: auto;
+	width: 250px;
+	z-index: -1;
+}
+
+#name {
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+	float: right;
+	padding: 4px;
+}
+
+#find {
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#bio {
+	font-size: 12px;
+	font-weight: bold;
+	font-style: normal;
+	color: #999999;	
+}
+
+#img {
+    float:left;
+	margin:4px;
+	padding: 6px;
+}
